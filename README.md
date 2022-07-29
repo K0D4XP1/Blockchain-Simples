@@ -51,5 +51,16 @@ D = 13
 E = 14
 F = 15
 Num sistema hexadecimal cada digito pode ter um valor maior, visualmente ele é menor porém representa a mesma coisa.
+
 <b>Tudo isto exemplificado em uma simples aplicação de blockchain</b>
+
+→→→ [■□□□□□□□□□] 10%
+→→→ [■■□□□□□□□□] 20%
+→→→ [■■■□□□□□□□] 30%
+→→→ [■■■■□□□□□□] 40%
+→→→ [■■■■■□□□□□] 50%
+→→→ [■■■■■■□□□□] 60%
+→→→ [■■■■■■■□□□] 70%
+→→→ [■■■■■■■■□□] 80%
+→→→ [■■■■■■■■■□] 90%
 
