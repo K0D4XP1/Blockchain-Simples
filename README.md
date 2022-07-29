@@ -54,13 +54,6 @@ Num sistema hexadecimal cada digito pode ter um valor maior, visualmente ele é 
 
 <b>Tudo isto exemplificado em uma simples aplicação de blockchain</b>
 
-→→→ [■□□□□□□□□□] 10%
-→→→ [■■□□□□□□□□] 20%
-→→→ [■■■□□□□□□□] 30%
-→→→ [■■■■□□□□□□] 40%
-→→→ [■■■■■□□□□□] 50%
-→→→ [■■■■■■□□□□] 60%
-→→→ [■■■■■■■□□□] 70%
-→→→ [■■■■■■■■□□] 80%
-→→→ [■■■■■■■■■□] 90%
-
+╔════════════════╗
+|██████████ 100% =
+╚════════════════╝
